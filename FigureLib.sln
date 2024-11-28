@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLib", "FigureLib\FigureLib.csproj", "{00EB4C1F-2E8C-4174-B22E-73B4EE0F3CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLib.Tests", "FigureLib.Tests\FigureLib.Tests.csproj", "{15C592B5-C8FB-4168-8462-E080CBA080FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EB4C1F-2E8C-4174-B22E-73B4EE0F3CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EB4C1F-2E8C-4174-B22E-73B4EE0F3CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EB4C1F-2E8C-4174-B22E-73B4EE0F3CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EB4C1F-2E8C-4174-B22E-73B4EE0F3CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C592B5-C8FB-4168-8462-E080CBA080FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C592B5-C8FB-4168-8462-E080CBA080FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C592B5-C8FB-4168-8462-E080CBA080FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C592B5-C8FB-4168-8462-E080CBA080FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
